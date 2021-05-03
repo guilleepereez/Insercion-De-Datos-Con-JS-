@@ -1,0 +1,61 @@
+/* Guillermo Antonio Pérez Fuentes */
+.top
+{
+    margin-top: 120px;
+    text-align: center;
+}
+
+.table-dark
+{
+    border-radius: 20px;
+}
+
+.footer
+{
+    width: 100%;
+    color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    margin-top: 35vh;;
+}
+
+.CanEle
+{
+    display: inline-flex;
+}
+
+.TotCos
+{
+display: inline-flex;
+}
+
+#nE
+{
+    margin-left: 10px;
+}
+
+.form-control
+{
+    border-color: seagreen;
+}
+
+.form-control:focus
+{
+    color: black;
+    background-color: #fff;
+    border-color: #099b52;
+    box-shadow: 0 0 5px 0.25rem #099b52;
+}
+
+.mar
+{
+    margin: 20px;
+}
+
+.borderR
+{
+    border-radius: 20px;
+    border: transparent;
+}
+
+/* Guillermo Antonio Pérez Fuentes */
